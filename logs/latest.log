@@ -1,5 +1,6 @@
-[23:30:21] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[23:30:21] [Server console handler/ERROR]: Exception handling console input
+[10:50:20] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[10:50:20] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[10:50:20] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Identificador inválido
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_121]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_121]
@@ -13,30 +14,265 @@ java.io.IOException: Identificador inválido
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_121]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_121]
 	at lh$2.run(SourceFile:95) [minecraft_server.1.11.2.jar:?]
-[23:30:21] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[23:30:21] [Server thread/INFO]: Loading properties
-[23:30:21] [Server thread/INFO]: Default game type: SURVIVAL
-[23:30:21] [Server thread/INFO]: Generating keypair
-[23:30:21] [Server thread/INFO]: Starting Minecraft server on 25.0.136.58:25565
-[23:30:21] [Server thread/INFO]: Using default channel type
-[23:30:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:30:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:30:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:30:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:30:22] [Server thread/INFO]: Preparing level "world"
-[23:30:22] [Server thread/INFO]: Preparing start region for level 0
-[23:30:23] [Server thread/INFO]: Preparing spawn area: 1%
-[23:30:24] [Server thread/INFO]: Preparing spawn area: 32%
-[23:30:25] [Server thread/INFO]: Preparing spawn area: 61%
-[23:30:26] [Server thread/INFO]: Preparing spawn area: 84%
-[23:30:27] [Server thread/INFO]: Done (5,026s)! For help, type "help" or "?"
-[23:30:52] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[23:30:56] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[23:31:00] [Server thread/INFO]: Player 'olha' cannot be found
-[23:39:26] [Server thread/INFO]: Saving...
-[23:39:26] [Server thread/INFO]: Saved the world
-[23:39:28] [Server thread/INFO]: Stopping server
-[23:39:28] [Server thread/INFO]: Saving players
-[23:39:28] [Server thread/INFO]: Saving worlds
-[23:39:28] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:39:28] [Server Shutdown Thread/INFO]: Stopping server
+[10:50:20] [Server thread/INFO]: Loading properties
+[10:50:20] [Server thread/INFO]: Default game type: SURVIVAL
+[10:50:20] [Server thread/INFO]: Generating keypair
+[10:50:20] [Server thread/INFO]: Starting Minecraft server on 25.0.136.58:25565
+[10:50:20] [Server thread/INFO]: Using default channel type
+[10:50:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:50:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:50:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:50:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:50:21] [Server thread/INFO]: Preparing level "world"
+[10:50:21] [Server thread/INFO]: Preparing start region for level 0
+[10:50:22] [Server thread/INFO]: Preparing spawn area: 16%
+[10:50:23] [Server thread/INFO]: Preparing spawn area: 61%
+[10:50:24] [Server thread/INFO]: Preparing spawn area: 95%
+[10:50:24] [Server thread/INFO]: Done (3,326s)! For help, type "help" or "?"
+[10:52:08] [Server thread/INFO]: Octos[/25.0.136.58:58207] logged in with entity id 323 at (-124.69999998807907, 64.0, 235.06046781522656)
+[10:52:08] [Server thread/INFO]: Octos joined the game
+[10:55:34] [Server thread/INFO]: Octos has just earned the achievement [Time to Mine!]
+[10:55:34] [Server thread/INFO]: Octos has just earned the achievement [Getting an Upgrade]
+[10:56:04] [Server thread/INFO]: gibin[/25.0.66.99:46032] logged in with entity id 3323 at (-120.13178654777931, 67.0, 230.77517460286091)
+[10:56:04] [Server thread/INFO]: gibin joined the game
+[10:56:11] [Server thread/INFO]: <gibin> consegui
+[10:56:24] [Server thread/INFO]: <Octos> o que?
+[10:56:27] [Server thread/INFO]: <gibin> logar hahahahah
+[10:56:38] [Server thread/INFO]: <gibin> tava dando timeout. Ai eu reiniciei o hamachi
+[10:58:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2164ms behind, skipping 43 tick(s)
+[10:59:11] [Server thread/INFO]: <Octos> caralho
+[10:59:15] [Server thread/INFO]: <Octos> tem uma caverna enorme aqui
+[10:59:31] [Server thread/INFO]: <Octos> do lado da praia
+[10:59:33] [Server thread/INFO]: <Octos> ja vu?
+[10:59:38] [Server thread/INFO]: <gibin> acho que não
+[10:59:42] [Server thread/INFO]: <Octos> cola aqui
+[10:59:52] [Server thread/INFO]: <gibin> perae
+[11:01:22] [Server thread/INFO]: <gibin> pra qual direção ?
+[11:01:25] [Server thread/INFO]: <gibin> aquela praia que eu mostrei ?
+[11:01:29] [Server thread/INFO]: <Octos> sim
+[11:01:35] [Server thread/INFO]: <Octos> a que pega o barco para ir para floresta
+[11:01:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2456ms behind, skipping 49 tick(s)
+[11:02:18] [Server thread/INFO]: <Octos> aqui
+[11:02:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2480ms behind, skipping 49 tick(s)
+[11:02:30] [Server thread/INFO]: <gibin> tem mini zumbi
+[11:02:34] [Server thread/INFO]: <Octos> puta buraco
+[11:02:36] [Server thread/INFO]: <gibin> é um saco esse bixo
+[11:02:37] [Server thread/INFO]: <Octos> serio?
+[11:02:45] [Server thread/INFO]: <Octos> mini zumbi so da na mina nao é?
+[11:02:49] [Server thread/INFO]: <Octos> ou onde tem spawn?
+[11:02:55] [Server thread/INFO]: <gibin> tem spawm
+[11:03:15] [Server thread/INFO]: <Octos> vai ficar de noite
+[11:03:18] [Server thread/INFO]: <gibin> vamos descer depois
+[11:03:18] [Server thread/INFO]: <Octos> vamos dormir
+[11:04:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4335ms behind, skipping 86 tick(s)
+[11:05:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2230ms behind, skipping 44 tick(s)
+[11:05:44] [Server thread/INFO]: <Octos> vc vai ir naquele buraco?
+[11:05:51] [Server thread/INFO]: <gibin> sim
+[11:05:57] [Server thread/INFO]: <Octos> eu faço uma escada pra vc
+[11:06:09] [Server thread/INFO]: <gibin> ja peguei as pedras
+[11:10:11] [Server thread/INFO]: gibin has just earned the achievement [Getting an Upgrade]
+[11:12:04] [Server thread/INFO]: <Octos> aqui ja ta explorado
+[11:12:08] [Server thread/INFO]: <Octos> esse buraco que to aqi
+[11:13:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2115ms behind, skipping 42 tick(s)
+[11:13:39] [Server thread/INFO]: <gibin> fiz uma escada pelo canto da parede
+[11:18:51] [Server thread/INFO]: <gibin> ta de noite ja
+[11:18:55] [Server thread/INFO]: <Octos> faz tempo
+[11:18:59] [Server thread/INFO]: <Octos> eu achei uma saida natural
+[11:19:02] [Server thread/INFO]: <Octos> sem ser la em cima
+[11:20:43] [Server thread/INFO]: <Octos> vem aqui primeiro
+[11:20:47] [Server thread/INFO]: <Octos> tem uma galeria aqui
+[11:20:56] [Server thread/INFO]: <Octos> aqui
+[11:21:00] [Server thread/INFO]: <gibin> calmae
+[11:22:53] [Server thread/INFO]: <Octos> ta muito inifnito
+[11:22:58] [Server thread/INFO]: <Octos> comida vai acabar antes da caverna
+[11:23:04] [Server thread/INFO]: <gibin> tem outra ravina do lado da que a gente achou
+[11:26:17] [Server thread/INFO]: <gibin> achei muito ouro
+[11:26:24] [Server thread/INFO]: <Octos> pega
+[11:26:27] [Server thread/INFO]: <Octos> a com pick de ferro?
+[11:26:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2070ms behind, skipping 41 tick(s)
+[11:26:31] [Server thread/INFO]: <gibin> to fazendo
+[11:30:32] [Server thread/INFO]: <gibin> achei outra saida natural
+[11:31:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2018ms behind, skipping 40 tick(s)
+[11:32:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2948ms behind, skipping 58 tick(s)
+[11:32:34] [Server thread/INFO]: <Octos> vou parar de pegar carvao
+[11:32:38] [Server thread/INFO]: <Octos> ja to full carvao quase
+[11:32:45] [Server thread/INFO]: <gibin> se tiver madeira
+[11:32:52] [Server thread/INFO]: <gibin> faz uma mesa de trabalho e faz bloco de carvao
+[11:32:57] [Server thread/INFO]: <gibin> economiza espaço
+[11:33:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2528ms behind, skipping 50 tick(s)
+[11:34:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2990ms behind, skipping 59 tick(s)
+[11:34:34] [Server thread/INFO]: <Octos> ta estranho
+[11:34:36] [Server thread/INFO]: <Octos> a com pouco bixo
+[11:34:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2188ms behind, skipping 43 tick(s)
+[11:36:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2339ms behind, skipping 46 tick(s)
+[11:37:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2055ms behind, skipping 41 tick(s)
+[11:38:10] [Server thread/INFO]: <Octos> quantos ferro ja?
+[11:38:22] [Server thread/INFO]: <gibin> 60
+[11:41:32] [Server thread/INFO]: <gibin> to voltando. Fiquei sme comida
+[11:43:19] [Server thread/INFO]: <Octos> azulit é para pegar?
+[11:43:24] [Server thread/INFO]: <gibin> pega
+[11:43:26] [Server thread/INFO]: <gibin> da xp
+[11:52:34] [Server thread/INFO]: Octos has just earned the achievement [Hot Topic]
+[11:53:52] [Server thread/INFO]: <Octos> vou tentar voltar
+[11:53:56] [Server thread/INFO]: <Octos> nao sei se vou conseguir
+[11:54:07] [Server thread/INFO]: <gibin> voltar ?
+[11:54:08] [Server thread/INFO]: <gibin> perae
+[11:54:49] [Server thread/INFO]: <gibin> se ta com o mapa ?
+[11:54:53] [Server thread/INFO]: <Octos> n
+[11:55:10] [Server thread/INFO]: <gibin> Quando você esta com o mapa eu consigo te ver nele. Carrega da proxima ahhahaha
+[11:55:55] [Server thread/INFO]: <gibin> você esta perto de onde ?
+[11:56:15] [Server thread/INFO]: <Octos> eu to muito para baixo
+[11:56:31] [Server thread/INFO]: <Octos> to no andar 10
+[11:56:50] [Server thread/INFO]: <Octos> to pensando em cavar para cima
+[11:56:57] [Server thread/INFO]: <Octos> e me virar na super ficie
+[11:57:13] [Server thread/INFO]: <gibin> acabou de anoitecer
+[11:57:19] [Server thread/INFO]: <Octos> avisa quando ficar de dia
+[11:57:56] [Server thread/INFO]: <gibin> vemc omigo
+[11:58:13] [Server thread/INFO]: <Octos> tem mais coisa para la
+[11:58:19] [Server thread/INFO]: <Octos> so que to full
+[12:00:01] [Server thread/INFO]: <Octos> a saida e aqui
+[12:00:08] [Server thread/INFO]: <gibin> achei ferro aqui [
+[12:00:41] [Server thread/INFO]: <gibin> so tinha umahhahahhaha
+[12:00:53] [Server thread/INFO]: <Octos> eu vou vazar
+[12:01:13] [Server thread/INFO]: <gibin> espera
+[12:01:20] [Server thread/INFO]: <Octos> la onde vc me acho
+[12:01:21] [Server thread/INFO]: <gibin> go
+[12:01:23] [Server thread/INFO]: <Octos> a indo infinito
+[12:01:30] [Server thread/INFO]: <gibin> sim eu andei pra caralho
+[12:02:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2327ms behind, skipping 46 tick(s)
+[12:02:54] [Server thread/INFO]: Octos has just earned the achievement [Acquire Hardware]
+[12:04:28] [Server thread/INFO]: <Octos> JA TEM COURO/
+[12:04:29] [Server thread/INFO]: <Octos> ?
+[12:04:34] [Server thread/INFO]: <gibin> pouco
+[12:04:38] [Server thread/INFO]: <gibin> deixa pra fazer livro
+[12:04:39] [Server thread/INFO]: <Octos> PRECISA DE QUANTOS?
+[12:04:51] [Server thread/INFO]: <gibin> 1 pra cada livro
+[12:05:00] [Server thread/INFO]: <Octos> e quantos livros precisa?
+[12:05:03] [Server thread/INFO]: <gibin> so que eu preciso de 3 livros pra fazer uma biblioteca
+[12:05:16] [Server thread/INFO]: <gibin> e pra deixar a mesa forte eu preciso de umas 9 bibliotecas
+[12:06:54] [Server thread/INFO]: <Octos> eu preciso voltar para as obras do setor 2
+[12:07:16] [Server thread/INFO]: <gibin> precisamos gastar mais pedras
+[12:07:29] [Server thread/INFO]: <Octos> eu vou gastar la do outro lado
+[12:07:34] [Server thread/INFO]: <Octos> la ja tem chest para armazenar
+[12:07:38] [Server thread/INFO]: <Octos> so preciso levar essas para la
+[12:07:43] [Server thread/INFO]: <Octos> vou ir la, quando voltar ja faço isso
+[12:09:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2050ms behind, skipping 41 tick(s)
+[12:16:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2101ms behind, skipping 42 tick(s)
+[12:17:10] [Server thread/INFO]: <Octos> segunda casa ta done
+[12:18:25] [Server thread/INFO]: <gibin> onde poe a mesa de encantamento ? Precisa ser um lugar grande
+[12:18:39] [Server thread/INFO]: <Octos> eu vou fazer
+[12:18:51] [Server thread/INFO]: <Octos> voce vai por 9 bibliotecas neh?
+[12:18:54] [Server thread/INFO]: <Octos> quanto é o maximo?
+[12:19:24] [Server thread/INFO]: <gibin> precisa ser assim pra pegar o maximo. NO centro a mesa, pula um bloco pra todas as direções, coloca as bibliotecas
+[12:19:40] [Server thread/INFO]: <Octos> mas qual o maximo
+[12:19:42] [Server thread/INFO]: <gibin> vou te mostrar
+[12:19:47] [Server thread/INFO]: <Octos> tipo um quadrado 5x5?
+[12:20:13] [Server thread/INFO]: <gibin> onde se ta indo ? ahahhahah
+[12:20:37] [Server thread/INFO]: <Octos> to contando os blocos do tunel
+[12:20:41] [Server thread/INFO]: <Octos> para ver quantos trilhos vai precisa
+[12:21:18] [Server thread/INFO]: <gibin> fiz o esquema da mesa aqui
+[12:21:27] [Server thread/INFO]: <gibin> vem ver o tamanho
+[12:21:33] [Server thread/INFO]: <Octos> caralho
+[12:21:38] [Server thread/INFO]: <Octos> precisa de 190 trilhos
+[12:21:40] [Server thread/INFO]: <Octos> inviavel por enquanto
+[12:21:46] [Server thread/INFO]: <gibin> acho que tem como fazer meno s
+[12:21:56] [Server thread/INFO]: <gibin> preciso testar uma coisa no modo criativo pra validar a ideia
+[12:22:11] [Server thread/INFO]: <Octos> ok
+[12:22:15] [Server thread/INFO]: <Octos> quandrado 5x5 entao
+[12:22:18] [Server thread/INFO]: <gibin> E o maximo da mesa de encantamento é esse ai. Só que com dois andares
+[12:22:24] [Server thread/INFO]: <Octos> ok
+[12:22:27] [Server thread/INFO]: <Octos> vou fazer
+[12:22:59] [Server thread/INFO]: <gibin> tem uma bruxa aqui
+[12:23:04] [Server thread/INFO]: <Octos> quer ajuda?
+[12:23:11] [Server thread/INFO]: <gibin> acho que consigo
+[12:23:45] [Server thread/INFO]: <gibin> corre
+[12:24:06] [Server thread/INFO]: <gibin> acho que so com poção pra matar
+[12:24:45] [Server thread/INFO]: <gibin> fuck
+[12:24:48] [Server thread/INFO]: <gibin> nao deu nada
+[12:24:53] [Server thread/INFO]: <Octos> ja volto
+[12:24:58] [Server thread/INFO]: <Octos> vou transferir pedras paras chest do outro lado
+[12:27:21] [Server thread/INFO]: <Octos> ja volto
+[12:27:27] [Server thread/INFO]: <Octos> preciso me trocar, chego gente em casa
+[12:27:30] [Server thread/INFO]: <gibin> oks
+[12:28:06] [Server thread/INFO]: <Octos> descobri que hj e niver da minha irma e vem gente aqui
+[12:28:11] [Server thread/INFO]: <Octos> se começar a travar o server me avisa
+[12:28:15] [Server thread/INFO]: <Octos> pq ai tao fritando a net
+[12:28:23] [Server thread/INFO]: <gibin> caraio ahhahahahah E de boas. Vou sair jaja
+[12:28:23] [Server thread/INFO]: <Octos> ai vou colocar bloqueio no roteador
+[12:28:35] [Server thread/INFO]: <gibin> os jogos de hoje vao começar logo menos se não me engano
+[12:28:48] [Server thread/INFO]: <Octos> so as 15
+[12:28:50] [Server thread/INFO]: <Octos> red vs japan
+[12:32:10] [Server thread/INFO]: <Octos> voltei
+[12:32:13] [Server thread/INFO]: <Octos> vou fazer seu negocio
+[12:33:18] [Server thread/INFO]: <gibin> volto logo. Vou testar o negocio no modo criativo
+[12:33:27] [Server thread/INFO]: <Octos> ok
+[12:33:28] [Server thread/INFO]: gibin lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:33:28] [Server thread/INFO]: gibin left the game
+[12:40:33] [Server thread/INFO]: gibin[/25.0.66.99:46352] logged in with entity id 39334 at (-118.72112018767686, 67.0, 230.47341655070957)
+[12:40:33] [Server thread/INFO]: gibin joined the game
+[12:40:52] [Server thread/INFO]: <gibin> não rolou :(
+[12:40:58] [Server thread/INFO]: <Octos> o que vc tentou fazer
+[12:41:00] [Server thread/INFO]: <gibin> Mas descobri que na descida da pra usar menos trilhos
+[12:41:19] [Server thread/INFO]: <gibin> Tava tentando ver se dava pra fazer trilhos espaçados
+[12:41:26] [Server thread/INFO]: <gibin> Tipo, um sim, um não
+[12:41:35] [Server thread/INFO]: <gibin> Na descida da. Mas em linha reta não funfa
+[12:45:01] [Server thread/INFO]: <Octos> levei muito a serio o gastar pedra
+[12:45:08] [Server thread/INFO]: <gibin> eu vi ahahahhahah
+[12:45:16] [Server thread/INFO]: <gibin> Mas de boas. Tinha muita
+[12:49:36] [Server thread/INFO]: <Octos> ta fazendo o que
+[12:49:42] [Server thread/INFO]: <gibin> plantação
+[12:54:06] [Server thread/INFO]: <gibin> se acabou com todos os blocos de vidro ?
+[12:54:13] [Server thread/INFO]: <Octos> ta comigo
+[12:54:38] [Server thread/INFO]: <gibin> faz painel de vidro que economiza
+[12:54:38] [Server thread/INFO]: <Octos> aqui
+[12:54:50] [Server thread/INFO]: <gibin> passa aqui
+[12:54:52] [Server thread/INFO]: <Octos> no meio da sala
+[12:57:22] [Server thread/INFO]: <gibin> da pra fazer painel colorido também
+[12:57:31] [Server thread/INFO]: <Octos> nem lembrava disso
+[12:58:17] [Server thread/INFO]: <gibin> agora precisa de lazulit pra encantar
+[12:58:26] [Server thread/INFO]: <Octos> ja tem no bau
+[12:58:48] [Server thread/INFO]: <Octos> caiu
+[12:58:50] [Server thread/INFO]: <Octos> kkkkkkkkkkkkkkk
+[12:58:54] [Server thread/INFO]: <gibin> sim ahahhahah
+[12:58:57] [Server thread/INFO]: <gibin> vou pegar
+[12:59:25] [Server thread/INFO]: <Octos> eu to pensando em fazer escada giratoria
+[12:59:29] [Server thread/INFO]: <Octos> essa é muito pobre
+[13:04:18] [Server thread/INFO]: <Octos> pputs mals
+[13:04:38] [Server thread/INFO]: <gibin> bruxa
+[13:05:39] [Server thread/INFO]: <gibin> fiquei com meio coração de vida
+[13:05:41] [Server thread/INFO]: <Octos> ond
+[13:05:41] [Server thread/INFO]: <gibin> puta merda
+[13:05:47] [Server thread/INFO]: <gibin> encima da casa
+[13:05:50] [Server thread/INFO]: <gibin> cuidado
+[13:06:10] [Server thread/INFO]: <gibin> aqiui
+[13:06:27] [Server thread/INFO]: <gibin> nice
+[13:06:30] [Server thread/INFO]: <Octos> drop?
+[13:06:34] [Server thread/INFO]: <gibin> só olho de aranha
+[13:06:36] [Server thread/INFO]: <Octos> o esquema para matar ela é se aproximar
+[13:06:43] [Server thread/INFO]: <Octos> um tem que destrair e outro vir por tras
+[13:12:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2302ms behind, skipping 46 tick(s)
+[13:13:42] [Server thread/INFO]: gibin has just earned the achievement [Time to Strike!]
+[13:14:12] [Server thread/INFO]: gibin has just earned the achievement [Cow Tipper]
+[13:18:33] [Server thread/INFO]: <gibin> otavio vou kitar aqui
+[13:18:36] [Server thread/INFO]: <gibin> vou almoçar
+[13:18:41] [Server thread/INFO]: <Octos> mas ja?
+[13:18:42] [Server thread/INFO]: <Octos> ok
+[13:18:44] [Server thread/INFO]: <Octos> vai voltar?
+[13:18:49] [Server thread/INFO]: <gibin> E acho que depois não volto pra ca não.E já é uma hora hahahahah
+[13:19:11] [Server thread/INFO]: <gibin> Flws
+[13:19:17] [Server thread/INFO]: gibin lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:19:17] [Server thread/INFO]: gibin left the game
+[13:19:31] [Server thread/INFO]: Octos fell from a high place
+[13:24:13] [Server thread/INFO]: Saving...
+[13:24:14] [Server thread/INFO]: Saved the world
+[13:24:17] [Server thread/INFO]: Octos lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:24:17] [Server thread/INFO]: Octos left the game
+[13:24:24] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[13:24:26] [Server thread/INFO]: Stopping the server
+[13:24:26] [Server thread/INFO]: Stopping server
+[13:24:26] [Server thread/INFO]: Saving players
+[13:24:26] [Server thread/INFO]: Saving worlds
+[13:24:26] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[13:24:26] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[13:24:26] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[13:24:26] [Server Shutdown Thread/INFO]: Stopping server
