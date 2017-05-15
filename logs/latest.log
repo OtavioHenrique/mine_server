@@ -1,27 +1,168 @@
-[12:33:50] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[12:33:50] [Server thread/INFO]: Loading properties
-[12:33:50] [Server thread/INFO]: Default game type: SURVIVAL
-[12:33:50] [Server thread/INFO]: Generating keypair
-[12:33:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:33:50] [Server thread/INFO]: Using epoll channel type
-[12:33:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:33:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:33:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:33:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:33:50] [Server thread/INFO]: Preparing level "world"
-[12:33:51] [Server thread/INFO]: Preparing start region for level 0
-[12:33:52] [Server thread/INFO]: Preparing spawn area: 6%
-[12:33:53] [Server thread/INFO]: Preparing spawn area: 68%
-[12:33:53] [Server thread/INFO]: Done (2.922s)! For help, type "help" or "?"
-[12:34:50] [Server thread/INFO]: Octos[/192.168.10.73:35776] logged in with entity id 652 at (-119.58108581374667, 64.0, 235.99405870488687)
-[12:34:50] [Server thread/INFO]: Octos joined the game
-[12:39:05] [Server thread/INFO]: gibin[/127.0.0.1:58638] logged in with entity id 1589 at (-138.61018908005266, 65.0, -376.52879826895196)
-[12:39:05] [Server thread/INFO]: gibin joined the game
-[12:45:20] [Server thread/WARN]: Octos moved too quickly! 0.32841158451958563,0.35974146058650547,10.06187772255032
-[13:09:57] [Server thread/INFO]: Octos lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:09:57] [Server thread/INFO]: Octos left the game
-[13:13:02] [Server thread/INFO]: gibin lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:13:02] [Server thread/INFO]: gibin left the game
-[13:13:32] [Server thread/INFO]: Saving...
-[13:13:32] [Server thread/INFO]: Saved the world
-[13:13:33] [Server Shutdown Thread/INFO]: Stopping server
+[00:48:50] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[00:48:50] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Identificador inválido
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_121]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_121]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_121]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_121]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_121]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_121]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_121]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_121]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_121]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_121]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_121]
+	at lh$2.run(SourceFile:95) [minecraft_server.1.11.2.jar:?]
+[00:48:51] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[00:48:51] [Server thread/INFO]: Loading properties
+[00:48:51] [Server thread/INFO]: Default game type: SURVIVAL
+[00:48:51] [Server thread/INFO]: Generating keypair
+[00:48:52] [Server thread/INFO]: Starting Minecraft server on 25.0.136.58:25565
+[00:48:52] [Server thread/INFO]: Using default channel type
+[00:48:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:48:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:48:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:48:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:48:55] [Server thread/INFO]: Preparing level "world"
+[00:48:55] [Server thread/INFO]: Preparing start region for level 0
+[00:48:56] [Server thread/INFO]: Preparing spawn area: 11%
+[00:48:57] [Server thread/INFO]: Preparing spawn area: 40%
+[00:48:58] [Server thread/INFO]: Preparing spawn area: 72%
+[00:48:59] [Server thread/INFO]: Preparing spawn area: 97%
+[00:48:59] [Server thread/INFO]: Done (4,425s)! For help, type "help" or "?"
+[00:50:48] [Server thread/INFO]: gibin[/25.16.5.216:41698] logged in with entity id 554 at (-137.4616439076715, 65.0, -377.7513276746075)
+[00:50:48] [Server thread/INFO]: gibin joined the game
+[00:50:53] [Server thread/INFO]: <gibin> olar
+[00:50:57] [Server thread/INFO]: <gibin> skype ?
+[00:52:10] [Server thread/INFO]: Octos[/25.0.136.58:50457] logged in with entity id 727 at (-99.30000001192093, 59.0, -136.13313237528567)
+[00:52:10] [Server thread/INFO]: Octos joined the game
+[00:52:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4923ms behind, skipping 98 tick(s)
+[00:52:49] [Server thread/INFO]: <gibin> skype ?
+[00:58:22] [Server thread/INFO]: <Octos> achei uma caverna
+[00:58:25] [Server thread/INFO]: <Octos> embaixo do mar
+[01:00:11] [Server thread/INFO]: <gibin> cheguei nela
+[01:00:14] [Server thread/INFO]: <gibin> to descendo
+[01:00:31] [Server thread/INFO]: <Octos> veio pelo tunel?
+[01:00:34] [Server thread/INFO]: <gibin> sim
+[01:00:41] [Server thread/INFO]: <gibin> passei atras de você ahhahahha
+[01:01:04] [Server thread/INFO]: <Octos> vou continuar cavar entao
+[01:02:01] [Server thread/INFO]: <gibin> porra ahhahahah
+[01:09:31] [Server thread/INFO]: <gibin> é uma caverna bem grande
+[01:09:40] [Server thread/INFO]: <Octos> eu tentei ir ai
+[01:09:44] [Server thread/INFO]: <Octos> mas to sem espada
+[01:10:09] [Server thread/INFO]: <gibin> eu também :( Acabou de quebrar. Minha picareta de diamnate vai pro limbo também
+[01:10:12] [Server thread/INFO]: <gibin> vou voltar
+[01:24:23] [Server thread/INFO]: <Octos> tunel ta pronto
+[01:24:43] [Server thread/INFO]: <gibin> to esvaziando os baus la na outra casa. Distribuir um pouco a tralha
+[01:24:45] [Server thread/INFO]: <Octos> faker tomou pau para lucian mid
+[01:24:56] [Server thread/INFO]: <Octos> por isso perderam para WE
+[01:25:02] [Server thread/INFO]: <gibin> Eita. Vou ver antes de dormir
+[01:25:16] [Server thread/INFO]: <Octos> e vai ter md5 entre flash e skt
+[01:25:51] [Server thread/INFO]: <Octos> os dois jogos que a skt perdeu foi tipo feed total
+[01:25:54] [Server thread/INFO]: <Octos> eles são 8 80
+[01:25:57] [Server thread/INFO]: <gibin> Vai acabar muito tarde. Pretendo dormir no maximo meia noite
+[01:26:04] [Server thread/INFO]: <Octos> nao
+[01:26:06] [Server thread/INFO]: <Octos> isso e sexta
+[01:26:15] [Server thread/INFO]: <gibin> A ta. Achei que ia rolar hoje
+[01:29:17] [Server thread/INFO]: <gibin> To passando todas os blocos de pedra diferente do normal pra um bau no outro abrigo
+[01:42:05] [Server thread/INFO]: <Octos> porra
+[01:42:07] [Server thread/INFO]: <Octos> vc me fudeu
+[01:43:10] [Server thread/INFO]: <Octos> crl
+[01:43:10] [Server thread/INFO]: <gibin> hahahahahha
+[01:43:21] [Server thread/INFO]: <gibin> TO esperando
+[01:45:40] [Server thread/INFO]: <gibin> me perdi
+[01:45:45] [Server thread/INFO]: <Octos> ONDE
+[01:45:46] [Server thread/INFO]: <gibin> onde ta aquele tunel gigante ?
+[01:45:56] [Server thread/INFO]: <Octos> para o templo?
+[01:46:00] [Server thread/INFO]: <Octos> logo depois do trilho
+[01:46:07] [Server thread/INFO]: <Octos> vira a direita
+[01:46:16] [Server thread/INFO]: <gibin> É que tem duas saidas. UMa com escada e outra normal
+[01:48:55] [Server thread/INFO]: <gibin> pq a dificuldade ta no easy ?
+[01:49:09] [Server thread/INFO]: <Octos> idk
+[01:49:24] [Server thread/INFO]: <Octos> acho que sempre esteve
+[01:49:37] [Server thread/INFO]: <gibin> Tenho quase certeza que criei no normal
+[01:50:04] [Server thread/INFO]: <Octos> problema é quando você cria o server ele manda pro 1 novamente
+[01:50:32] [Server thread/INFO]: <gibin> Isso configura no server.properties. Mas de boas. Depois a gente ve
+[01:50:58] [Server thread/INFO]: <Octos> tenho quelembrar o comando
+[01:51:02] [Server thread/INFO]: <Octos> da para mudar via console
+[01:51:48] [Server thread/INFO]: <gibin> Não sei esse. Mas deixa. Depois a gente muda. QUando for come?ar de novo. Pq a gente já fez bastante mudan?a
+[01:51:57] [Server thread/INFO]: <gibin> ai se der ruim, a gente perde tudo
+[01:54:01] [Server thread/INFO]: <gibin> caraio tomei um puta susto
+[01:54:08] [Server thread/INFO]: <gibin> Um relampago no jogo
+[01:54:23] [Server thread/INFO]: <Octos> a caverna embaixo do mar
+[01:54:26] [Server thread/INFO]: <Octos> vce viu ela toda?
+[01:54:45] [Server thread/INFO]: <gibin> explorando ainda. Muito grande
+[01:55:25] [Server thread/INFO]: <gibin> ouro +
+[02:00:55] [Server thread/INFO]: <gibin> tirei tudo que não é carvão de la
+[02:02:03] [Server thread/INFO]: <gibin> to pegando o expresso pra voltar
+[02:02:30] [Server thread/INFO]: <gibin> rea?ão rapida ahhahah
+[02:02:33] [Server thread/INFO]: <Octos> esse é o expresso 2
+[02:03:04] [Server thread/INFO]: <gibin> Esse é o da linha 10. A esta?ão final é no submundo
+[02:03:55] [Server thread/INFO]: <gibin> se fez errado a curva aqui
+[02:04:03] [Server thread/INFO]: <Octos> eu vi
+[02:04:42] [Server thread/INFO]: <Octos> boa
+[02:04:48] [Server thread/INFO]: <gibin> A curva não deu muito certo. Entrei na parede ahhahahha
+[02:05:16] [Server thread/INFO]: <gibin> To tentando bolar um jeito de bloquear a passagem quando uma pessoa estiver no caminho
+[02:11:55] [Server thread/INFO]: <gibin> tem tanta melancia aqui que to me sentindo um afrodecendente
+[02:12:40] [Server thread/INFO]: <gibin> to no expresso da casa
+[02:13:20] [Server thread/INFO]: <gibin> vou pegar o expresso pro templo
+[02:13:23] [Server thread/INFO]: <Octos> ok
+[02:13:27] [Server thread/INFO]: <Octos> aproveita e testa
+[02:13:29] [Server thread/INFO]: <Octos> to no final dele
+[02:13:32] [Server thread/INFO]: <Octos> vamos ver se vc chega
+[02:13:47] [Server thread/INFO]: <gibin> Ta indo bem até agora. Passei pela caverna já
+[02:14:10] [Server thread/INFO]: <gibin> Caraio, é infinito
+[02:14:43] [Server thread/INFO]: <Octos> deixar esse templo habitavel
+[02:14:46] [Server thread/INFO]: <Octos> mais bau e fornalha
+[02:14:48] [Server thread/INFO]: <Octos> para explorar
+[02:15:02] [Server thread/INFO]: <Octos> onde ta o rspawn?
+[02:15:07] [Server thread/INFO]: <Octos> de zombi?
+[02:15:19] [Server thread/INFO]: <gibin> saiu do lado ahahhahah
+[02:15:51] [Server thread/INFO]: <Octos> nao ta nascendo
+[02:15:59] [Server thread/INFO]: <gibin> as vezes demora
+[02:21:34] [Server thread/WARN]: gibin moved too quickly! 110.24877773926596,-7.0,415.8828163140172
+[02:21:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6842ms behind, skipping 136 tick(s)
+[02:21:41] [Server thread/INFO]: <gibin> porra deu certo
+[02:21:46] [Server thread/INFO]: <Octos> o que
+[02:21:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5784ms behind, skipping 115 tick(s)
+[02:21:53] [Server thread/WARN]: gibin moved too quickly! -122.19861425927508,1.0,173.66620707229788
+[02:22:03] [Server thread/INFO]: <gibin> fiz um portal encima do templo e sai na nossa casa
+[02:22:18] [Server thread/INFO]: <gibin> A viagem de ida é demorada. Mas a de volta é rapida
+[02:22:46] [Server thread/INFO]: <gibin> Da pra transportar as coisas mais rapido ainda
+[02:23:27] [Server thread/INFO]: <Octos> as vacas nadam?
+[02:23:37] [Server thread/INFO]: <gibin> Elas ficam pulando até a borda
+[02:23:51] [Server thread/INFO]: <gibin> acho que pode considerar um nado ahahhaha
+[02:25:06] [Server thread/INFO]: Octos was slain by Enderman
+[02:25:11] [Server thread/INFO]: <Octos> merda
+[02:25:13] [Server thread/INFO]: <Octos> me segue
+[02:25:48] [Server thread/INFO]: <Octos> aqio
+[02:26:08] [Server thread/INFO]: <Octos> como essa aranha deu respawn aqui
+[02:26:49] [Server thread/INFO]: <gibin> ELa pode ter vindo andando
+[02:27:09] [Server thread/INFO]: <Octos> ta explorado aqui?
+[02:27:12] [Server thread/INFO]: <Octos> se tiver vou fechar
+[02:27:27] [Server thread/INFO]: <gibin> to não
+[02:30:31] [Server thread/INFO]: <gibin> tem que fechar a muralha
+[02:30:41] [Server thread/INFO]: <Octos> de um lado eu ainda nao acabei
+[02:31:25] [Server thread/INFO]: <gibin> mano. Para de tacar fogo ahahahhah
+[02:31:31] [Server thread/INFO]: <Octos> se tem arvore
+[02:31:33] [Server thread/INFO]: <Octos> as aranhas entram
+[02:31:42] [Server thread/INFO]: <Octos> to planejando mudar todos animais para esse canto
+[02:34:48] [Server thread/INFO]: <gibin> a gente acabou de pegar o primeiro olho do fim. Só faltam 8
+[02:34:59] [Server thread/INFO]: <Octos> precisa de 8 em media?
+[02:35:15] [Server thread/INFO]: <gibin> ou melhor. Perola do ender. O olho é o que vai se transformar depois de matar os blazes e juntar os dois
+[02:35:25] [Server thread/INFO]: <gibin> Precisamos de 9 só pra abrir o portal
+[02:36:10] [Server thread/INFO]: <gibin> Otavio vou sair agora. Só vou colar na casa do templo e kitar
+[02:39:37] [Server thread/INFO]: <gibin> To saindo aqui otavio
+[02:39:39] [Server thread/INFO]: <gibin> flws
+[02:39:45] [Server thread/INFO]: <Octos> flw
+[02:39:49] [Server thread/INFO]: gibin lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:39:49] [Server thread/INFO]: gibin left the game
+[02:39:53] [Server thread/INFO]: Octos lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:39:53] [Server thread/INFO]: Octos left the game
+[02:40:03] [Server thread/INFO]: Saving...
+[02:40:03] [Server thread/INFO]: Saved the world
+[02:40:25] [Server thread/INFO]: Stopping server
+[02:40:25] [Server thread/INFO]: Saving players
+[02:40:25] [Server thread/INFO]: Saving worlds
+[02:40:25] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[02:40:25] [Server Shutdown Thread/INFO]: Stopping server
