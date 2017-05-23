@@ -1,223 +1,40 @@
-[12:43:44] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[12:43:44] [Server thread/INFO]: Loading properties
-[12:43:44] [Server thread/INFO]: Default game type: SURVIVAL
-[12:43:44] [Server thread/INFO]: Generating keypair
-[12:43:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:43:44] [Server thread/INFO]: Using epoll channel type
-[12:43:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:43:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:43:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:43:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:43:45] [Server thread/INFO]: Preparing level "world"
-[12:43:45] [Server thread/INFO]: Preparing start region for level 0
-[12:43:46] [Server thread/INFO]: Preparing spawn area: 27%
-[12:43:47] [Server thread/INFO]: Preparing spawn area: 88%
-[12:43:47] [Server thread/INFO]: Done (2.399s)! For help, type "help" or "?"
-[12:44:42] [Server thread/INFO]: gibin[/127.0.0.1:34124] logged in with entity id 654 at (-1288.699999988079, 42.0, 30.69999998807907)
-[12:44:43] [Server thread/INFO]: gibin joined the game
-[12:44:49] [Server thread/INFO]: Octos[/192.168.10.73:56250] logged in with entity id 939 at (-1288.5350777261247, 42.0, 30.028778786016012)
+[12:43:04] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[12:43:04] [Server thread/INFO]: Loading properties
+[12:43:04] [Server thread/INFO]: Default game type: SURVIVAL
+[12:43:04] [Server thread/INFO]: Generating keypair
+[12:43:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:43:04] [Server thread/INFO]: Using epoll channel type
+[12:43:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:43:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:43:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:43:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:43:04] [Server thread/INFO]: Preparing level "world"
+[12:43:04] [Server thread/INFO]: Preparing start region for level 0
+[12:43:05] [Server thread/INFO]: Preparing spawn area: 26%
+[12:43:06] [Server thread/INFO]: Preparing spawn area: 93%
+[12:43:07] [Server thread/INFO]: Done (2.326s)! For help, type "help" or "?"
+[12:44:33] [Server thread/INFO]: gibin[/127.0.0.1:46646] logged in with entity id 621 at (-1297.8393870836455, 43.0, 34.5913642105387)
+[12:44:33] [Server thread/INFO]: gibin joined the game
+[12:44:33] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID f37466d3-6831-404a-85f6-46ec680126bd
+[12:44:49] [Server thread/INFO]: Octos[/192.168.10.73:33376] logged in with entity id 809 at (-1299.699999988079, 43.0, 36.76249998807907)
 [12:44:49] [Server thread/INFO]: Octos joined the game
-[12:45:18] [Server thread/INFO]: <Octos> vai fazer
-[12:45:19] [Server thread/INFO]: <Octos> uma tesoura
-[12:45:54] [Server thread/INFO]: <Octos> aqui tem uma mina alagada
-[12:47:00] [Server thread/INFO]: <Octos> trilho
-[12:47:01] [Server thread/INFO]: <Octos> here
-[12:47:03] [Server thread/INFO]: <Octos> vem pegar
-[12:47:08] [Server thread/INFO]: <gibin> tem um bau aqui
-[12:47:13] [Server thread/INFO]: <gibin> coloquei pra guardar as coisas
-[12:48:36] [Server thread/INFO]: <Octos> acabou aqui
-[12:48:37] [Server thread/INFO]: <Octos> fecha
-[12:49:55] [Server thread/WARN]: Octos moved too quickly! -0.4264809999674526,-5.0,8.712758217047917
-[12:49:55] [Server thread/INFO]: <Octos> tem spawn ali
-[12:52:07] [Server thread/INFO]: <Octos> harry
-[12:52:10] [Server thread/INFO]: <Octos> preciso da tesoura aqui
-[12:52:24] [Server thread/INFO]: <Octos> ali
-[12:53:35] [Server thread/INFO]: <Octos> acabou aqui
-[12:54:40] [Server thread/INFO]: <Octos> acabou
-[12:55:49] [Server thread/INFO]: <Octos> outro spawn
-[12:56:43] [Server thread/INFO]: Octos was slain by Cave Spider
-[12:57:00] [Server thread/INFO]: <Octos> pega e poem tudo no bau
-[12:57:03] [Server thread/INFO]: <Octos> recua
-[12:59:59] [Server thread/WARN]: Octos moved too quickly! -2.965277708939766,-1.0,-9.596508284781777
-[13:00:09] [Server thread/INFO]: <gibin> se ta vindo aqui ?
-[13:00:11] [Server thread/INFO]: <Octos> to
-[13:00:14] [Server thread/INFO]: <Octos> pegou minhas coisas?
-[13:00:17] [Server thread/INFO]: <gibin> tras obsidum
-[13:00:23] [Server thread/INFO]: <Octos> ja to longe
-[13:03:00] [Server thread/INFO]: <Octos> ta de vagar
-[13:03:03] [Server thread/INFO]: <Octos> para carregar o mapa
-[13:03:07] [Server thread/INFO]: <Octos> por isso to demorando
-[13:03:44] [Server thread/INFO]: <Octos> cheguei no pantano
-[13:04:26] [Server thread/WARN]: gibin moved wrongly!
-[13:04:53] [Server thread/INFO]: <Octos> voce lembra o caminbgo
-[13:04:57] [Server thread/INFO]: <Octos> a partir do pantano?
-[13:04:58] [Server thread/INFO]: <gibin> sim
-[13:05:03] [Server thread/INFO]: <gibin> to indo ai
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.4989098138162262,-2.2826156964583788E-7,10.165351608683977
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.6094139170152175,-2.2956783141125925E-7,10.547413552852959
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.7189212502851205,-2.3119657299730534E-7,10.929984272339937
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.8271375225672273,-2.3293353734743505E-7,11.31311309990997
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.9338379066789457,-2.3460914633233187E-7,11.696830625399343
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.0388529217411815,-2.361012505502913E-7,12.081153412405342
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.1420631174073606,-2.3733330323238988E-7,12.466086227924905
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.2433905057057473,-2.3826922301850573E-7,12.851624771735828
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.3427870499028813,-2.3890624589739673E-7,13.237758743787083
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.439550451618288,-2.3926683212494027E-7,13.624605634485988
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.5324460272606757,-2.393905020880993E-7,14.012343284464805
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.6198085869782517,-2.393263400790602E-7,14.401130010577731
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.6996388816273793,-2.3912656388347386E-7,14.791019814894582
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.769691989570447,-2.3884147282160484E-7,15.181880373103013
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.828254673365336,-2.3851578845324184E-7,15.57340261469568
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.8740734968719153,-2.3818638084094346E-7,15.965175174743536
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.906277190969604,-2.3788120984136185E-7,16.356737125177176
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.924322457213748,-2.3761925405096918E-7,16.74761830273377
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.927932205696834,-2.3741120003251126E-7,17.137364718809522
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.9170467212136373,-2.372606502376584E-7,17.525556034106273
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.891783154979521,-2.371655796196137E-7,17.91181700545428
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.852395736767903,-2.371199130379864E-7,18.29582178278463
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.799247488127321,-2.371150529256738E-7,18.67729702389562
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.7327817914970183,-2.3714119379292242E-7,19.056020190141055
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.6535042026989686,-2.3718844488485047E-7,19.431819107785316
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.561959851634356,-2.37247647305594E-7,19.804566100771297
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.458720374677341,-2.3731095666335023E-7,20.174174811275464
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.3443725542983884,-2.3737214860375389E-7,20.540596250422766
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.2195084802931433,-2.3742673960214233E-7,20.903814312607608
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.0847170581043883,-2.374718945929999E-7,21.263840959796937
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.9405767015882702,-2.3750627065055596E-7,21.62071122057654
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.787655303701058,-2.3752973987711812E-7,21.97448260457253
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.6265009900253062,-2.375430980805504E-7,22.32522760168763
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.4576433802515112,-2.3754778766260642E-7,22.673033242055453
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.281591722790381,-2.3754558498012557E-7,23.017998293462085
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.09883028784634,-2.3753839428763968E-7,23.360228179750948
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 0.9098174491477948,-2.37528048785407E-7,23.699832523352427
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 0.7149909595293593,-2.3751618982714717E-7,24.0369275268431
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 0.5147636818905994,-2.375041674440581E-7,24.37163097869336
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 0.3095228614026837,-2.3749301192310668E-7,24.704059989888833
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 0.09963549987560327,-2.3748341959617392E-7,25.034333699184344
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -0.11455575545869578,-2.3747578836719185E-7,25.362568454692337
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -0.33273028265807625,-2.3747025323928028E-7,25.6888782382336
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -0.5545873849866894,-2.3746674315816563E-7,26.01337502303818
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -0.7798473382301836,-2.3746504496102716E-7,26.336166636985126
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -1.0077101694319026,-2.374648389036338E-7,26.65780044756741
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -1.236943012431766,-2.3746576971461764E-7,26.979153043736176
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -1.4659450411343187,-2.3746748212261082E-7,27.301310492131336
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -1.6927850403708362,-2.3746963506710017E-7,27.62545639536694
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -1.915243337082984,-2.374719443309914E-7,27.952754898499393
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -2.1314899679425707,-2.3747417543518168E-7,28.28396921673061
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -2.340052271399827,-2.3747617206026916E-7,28.619554318325925
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -2.539772753722673,-2.3747782762484348E-7,28.95973393173898
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -2.729778836943524,-2.3747908528548578E-7,29.30455796462104
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -2.9094398116358207,-2.374799521476234E-7,29.653951886148775
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.0783356004073994,-2.3748044952753844E-7,30.00775290469943
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.236226198462191,-2.3748062716322238E-7,30.365738619927754
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.3830223735835716,-2.3748054900352145E-7,30.727649304136378
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.518758001350079,-2.3748028610270921E-7,31.093204852341955
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.6428712788924713,-2.3747990951505926E-7,31.46215721573151
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.7543239554590855,-2.3747947608399045E-7,31.834213532154138
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.8517040777226157,-2.3747903554749428E-7,32.20895666921484
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.93332906395176,-2.374786305381349E-7,32.58576974190163
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.997344140771702,-2.3747828237219437E-7,32.96376891233342
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -4.041825692208931,-2.3747800526052742E-7,33.34174983112473
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -4.064874844495989,-2.3747779920313405E-7,33.71814614758773
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -4.064726986184041,-2.3747767130544162E-7,34.09101123495117
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -4.039848833086808,-2.374776073565954E-7,34.458014822551945
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.989537173159306,-2.3747760025116804E-7,34.81695798505024
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.913744015957036,-2.3747763577830483E-7,35.16586849393525
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.8129175731241958,-2.3747769972715105E-7,35.503045515986855
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.687876467162596,-2.3747777788685198E-7,35.82708538217537
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.5396988662591866,-2.3747786315198027E-7,36.136876772938535
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.3696351816302013,-2.374779413116812E-7,36.431586052838156
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -3.1790390803059836,-2.3747801236595478E-7,36.71063525398921
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -2.969314024410778,-2.3747806920937364E-7,36.97367683339877
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -2.7418716906743157,-2.374781118419378E-7,37.22056436825824
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -2.4981006611960765,-2.3747814026364722E-7,37.451321274568556
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -2.2393451443701906,-2.374781615799293E-7,37.6661166204064
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -1.9668891690296277,-2.3747816868535665E-7,37.86523714920236
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -1.6819472095041874,-2.3747816868535665E-7,38.04906789258712
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -1.3856580056992698,-2.374781615799293E-7,38.21806969933078
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -1.079081709452339,-2.3747814736907458E-7,38.372758107540335
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -0.7632002741340784,-2.3747813315821986E-7,38.51369903289287
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -0.4389180250827849,-2.3747811894736515E-7,38.64148150527171
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! -0.10706471364210302,-2.3747810473651043E-7,38.756719658105396
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 0.23160126854349983,-2.3747809052565572E-7,38.86003516452217
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 0.576388879075239,-2.3747808342022836E-7,38.95204897016748
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 0.9266701895439837,-2.37478076314801E-7,39.03337760713464
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.2818761155888296,-2.3747806920937364E-7,39.10462982350401
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 1.6414917022320878,-2.3747806920937364E-7,39.166395859095815
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.005052301638216,-2.3747806920937364E-7,39.219253097955345
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.372138941005005,-2.3747806920937364E-7,39.2637558334705
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 2.742374626776609,-2.3747806920937364E-7,39.300437538788174
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 3.1154202398504367,-2.3747806920937364E-7,39.329805265194864
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 3.4909716645524895,-2.3747806920937364E-7,39.352346065705774
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 3.86875647083275,-2.3747806920937364E-7,39.3685251361901
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 4.248530343370248,-2.3747806920937364E-7,39.378780338629724
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 4.6300745681235185,-2.3747806920937364E-7,39.3835249088973
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 5.013193729246268,-2.37478076314801E-7,39.38314989468756
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 5.397713148299999,-2.37478076314801E-7,39.378022543340364
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 5.783476974424957,-2.37478076314801E-7,39.3684886646472
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 6.170345970031349,-2.37478076314801E-7,39.354870952458725
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 6.558196445518206,-2.37478076314801E-7,39.33747508769363
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 6.9470031232774545,-2.37478076314801E-7,39.31727654100712
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 7.336792285733736,-2.37478076314801E-7,39.29579206085327
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 7.727574563453345,-2.37478076314801E-7,39.27496074647922
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 8.119269867383991,-2.37478076314801E-7,39.25704468859425
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 8.511630879725317,-2.37478076314801E-7,39.24454312970329
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 8.904171465075251,-2.37478076314801E-7,39.24009997255405
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 9.296103603920528,-2.37478076314801E-7,39.246418079632065
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 9.686289104089383,-2.37478076314801E-7,39.26616326753549
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 10.073207402613207,-2.37478076314801E-7,39.30187041547805
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 10.45493982708399,-2.37478076314801E-7,39.35585198361281
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 10.829174712979466,-2.37478076314801E-7,39.43010345777941
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 11.193238224122751,-2.37478076314801E-7,39.526207226644885
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 11.54413729773114,-2.37478076314801E-7,39.645253156634794
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 11.878629611611132,-2.37478076314801E-7,39.787761323997415
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 12.193310638634784,-2.37478076314801E-7,39.953620637637016
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 12.484714191976536,-2.37478076314801E-7,40.14204566960569
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 11.361642256946197,-9.94988624825055E-9,30.5678271179861
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 11.596424586796502,-9.94988624825055E-9,30.79623382507276
-[13:05:54] [Server thread/WARN]: Boat (vehicle of Octos) moved too quickly! 11.798329719418462,-9.94988624825055E-9,31.04067992108861
-[13:06:16] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID f37466d3-6831-404a-85f6-46ec680126bd
-[13:06:26] [Server thread/INFO]: <gibin> procura uma torre de terra
-[13:06:28] [Server thread/INFO]: <gibin> com tochas
-[13:06:51] [Server thread/INFO]: <gibin> to parado do lado
-[13:07:17] [Server thread/INFO]: <Octos> achei
-[13:07:19] [Server thread/INFO]: <Octos> cambi0o
-[13:07:20] [Server thread/INFO]: <Octos> indo
-[13:07:33] [Server thread/INFO]: <gibin> imagina o som de um berrante
-[13:07:40] [Server thread/INFO]: <gibin> ou xofar
-[13:07:58] [Server thread/INFO]: <Octos> aqui e quase outro reino
-[13:08:01] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID f37466d3-6831-404a-85f6-46ec680126bd
-[13:08:13] [Server thread/INFO]: <Octos> precisamos fazer a cama
-[13:08:23] [Server thread/INFO]: <gibin> lembra como transforma a teia em linha ?
-[13:08:29] [Server thread/INFO]: <Octos> sim
-[13:08:39] [Server thread/INFO]: <gibin> so fazer isso e transformar em la
-[13:08:49] [Server thread/INFO]: <Octos> onde ta o bau
-[13:08:56] [Server thread/INFO]: <gibin> sigame
-[13:12:14] [Server thread/INFO]: <gibin> 10 min
-[13:12:53] [Server thread/INFO]: <Octos> tvem dormir
-[13:12:55] [Server thread/INFO]: <Octos> rapido
-[13:12:59] [Server thread/INFO]: <Octos> salvar spawn
-[13:13:39] [Server thread/INFO]: <Octos> vamo parar aquele spawn
-[13:13:40] [Server thread/INFO]: <Octos> tentar
-[13:13:44] [Server thread/INFO]: <gibin> ja parei
-[13:13:54] [Server thread/WARN]: Octos moved too quickly! 8.289143193509062,-1.0,-5.789284488029637
-[13:14:04] [Server thread/INFO]: <gibin> me da metade das tochas
-[13:14:21] [Server thread/INFO]: <Octos> cade vc
-[13:14:59] [Server thread/INFO]: <gibin> você viu que você ativou o spawn de novo tirando os blocos de terra né ?
-[13:17:56] [Server thread/WARN]: Octos moved too quickly! -8.888025565514909,4.0,-2.7466070064681958
-[13:18:29] [Server thread/INFO]: <gibin> 4 minutos
-[13:24:36] [Server thread/INFO]: <gibin> volta pra desligar
-[13:24:46] [Server thread/INFO]: <Octos> ja to
-[13:25:02] [Server thread/INFO]: <Octos> tem um lugar nascendo aranha mesmo sem spawn
-[13:25:10] [Server thread/INFO]: <Octos> enchi de tocha
-[13:25:13] [Server thread/INFO]: Octos lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:25:13] [Server thread/INFO]: Octos left the game
-[13:25:51] [Server thread/INFO]: gibin lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:25:51] [Server thread/INFO]: gibin left the game
-[13:25:51] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID f37466d3-6831-404a-85f6-46ec680126bd
-[13:26:05] [Server thread/INFO]: Saving...
-[13:26:05] [Server thread/INFO]: Saved the world
-[13:26:07] [Server Shutdown Thread/INFO]: Stopping server
-[13:26:07] [Server Shutdown Thread/INFO]: Saving players
-[13:26:07] [Server Shutdown Thread/INFO]: Saving worlds
-[13:26:07] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:47:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2401ms behind, skipping 48 tick(s)
+[12:47:42] [Server thread/WARN]: gibin moved too quickly! 1217.8371810885576,3.0,-12.954553637200306
+[12:47:52] [Server thread/INFO]: <gibin> sai no mesmo portal da cas
+[12:47:56] [Server thread/INFO]: <gibin> casa*
+[12:48:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2947ms behind, skipping 58 tick(s)
+[12:48:05] [Server thread/WARN]: gibin moved too quickly! -122.0845625359322,1.0,173.56340385194278
+[12:49:37] [Server thread/WARN]: gibin moved wrongly!
+[12:50:34] [Server thread/WARN]: Octos moved too quickly! -9.159686925190272,-1.0,4.023906154631096
+[12:54:57] [Server thread/WARN]: Octos moved wrongly!
+[12:58:19] [Server thread/WARN]: gibin moved wrongly!
+[13:07:40] [Server thread/WARN]: Octos moved too quickly! -9.800558539677468,1.5800000131130219,1.350299989394074
+[13:10:07] [Server thread/INFO]: Octos lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:10:07] [Server thread/INFO]: Octos left the game
+[13:10:18] [Server thread/INFO]: gibin lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:10:18] [Server thread/INFO]: gibin left the game
+[13:10:18] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID f37466d3-6831-404a-85f6-46ec680126bd
+[13:11:37] [Server Shutdown Thread/INFO]: Stopping server
+[13:11:37] [Server Shutdown Thread/INFO]: Saving players
+[13:11:37] [Server Shutdown Thread/INFO]: Saving worlds
+[13:11:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
